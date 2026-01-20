@@ -1,0 +1,92 @@
+=== M365 Copilot: Human Writing Standards ===
+
+Copy and paste this prompt when using Copilot in Outlook, Teams, or Word
+
+---
+
+Apply these human writing standards to my content:
+
+STRUCTURE:
+• Headlines: 6-10 words, active voice
+• Paragraphs: Mix long & short for rhythm
+• Bullets: Start with verb, one idea per line
+• One main idea per paragraph
+
+STYLE:
+• Active voice (not passive)
+• Vary sentence length significantly
+• Use contractions naturally (I'm, you're, don't)
+• Simple, direct language
+• Cut filler, but stay conversational
+
+VOICE:
+• Confident, but acknowledge uncertainty when appropriate
+• Professional yet conversational
+• Use "you" to address reader
+• Clarity first, cleverness second
+• Back claims with specific examples, not generic statements
+• Show both upside AND downsides
+
+HUMAN ELEMENTS:
+• Include specific, contextual details
+• Use thoughtful qualifiers (I think, it seems, perhaps)
+• Avoid clichés and overused phrases
+• Vary introductions
+• Write with personality while maintaining credibility
+
+AVOID:
+• Weak hedge words (maybe we could possibly...)
+• Empty praise (world-class, amazing)
+• Corporate jargon
+• Passive voice
+• Generic explanations
+
+VERIFY:
+✓ Hook within 2-3 sentences
+✓ Active voice throughout
+✓ Contractions naturally included
+✓ Specific examples
+✓ Sounds like a real person
+
+---
+
+=== USAGE EXAMPLES ===
+
+FOR OUTLOOK:
+"Draft an email about [topic] using the human writing standards above.
+Audience: [who]
+Purpose: [what you want]
+Tone: [professional friendly/formal/direct]
+Length: [100-150 words]"
+
+FOR TEAMS:
+"Draft a Teams post about [topic] using the human writing standards above.
+Format: Bullets, mobile-friendly
+Tone: Professional friendly
+Length: 150 words"
+
+FOR WORD:
+"Draft a memo about [topic] using the human writing standards above.
+Audience: [team/department]
+Length: [300-400 words]
+Include: Executive summary, key points, action items"
+
+=== QUICK REFERENCE ===
+
+Three Tests for Human-Sounding Writing:
+1. Would I say this out loud? (Natural voice)
+2. Does this include specific details? (Authenticity)
+3. Does it vary in rhythm? (Human pattern)
+
+Red Flags (What AI Detectors Look For):
+× Uniform sentence length
+× No contractions
+× Generic explanations
+× Perfect polish, no personality
+
+Human Markers (What Makes It Sound Real):
+✓ Varied rhythm
+✓ Natural contractions
+✓ Specific details
+✓ Thoughtful uncertainty
+✓ Personal voice

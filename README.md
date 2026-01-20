@@ -1,7 +1,5 @@
 # Awesome Agent Skills
 
-[English](README.md) | [繁體中文](README.zh-TW.md) | [简体中文](README.zh-CN.md) | [日本語](README.ja.md) | [한국어](README.ko.md) | [Español](README.es.md)
-
 A curated list of skills, tools, and capabilities for AI coding agents.
 
 ---
