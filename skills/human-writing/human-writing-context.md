@@ -1,4 +1,9 @@
-<!-- TS 01.19.26 -->
+<!--
+Human Writing Context - Minimal LLM Instructions
+Version: 1.0
+History:
+  1.0 TS 01.19.26 - Initial condensed version from SKILL.md
+-->
 
 # Human Writing Guidelines
 

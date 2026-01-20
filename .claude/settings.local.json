@@ -3,7 +3,9 @@
     "allow": [
       "Bash(git clone:*)",
       "Bash(mkdir:*)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Bash(git -C:*)",
+      "Bash(gh repo create:*)"
     ]
   }
 }

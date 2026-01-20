@@ -1,4 +1,10 @@
-<!-- TS 01.19.26 -->
+<!--
+Writing Standards - Annotated References
+Version: 1.0
+References: human-writing-context.md
+History:
+  1.0 TS 01.19.26 - Initial version with line refs + sources
+-->
 
 # Writing Standards - Annotated References
 
